@@ -8,6 +8,6 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/medistart',  // Replace with your actual GitHub repository name
+  base: '/medistart/',  // Replace with your actual GitHub repository name
 })
 
